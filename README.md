@@ -1,8 +1,8 @@
 # Привет, меня зовут Дима.
-## 🔗 Связь со мной
+## 🔗 Связаться со мной
 [![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/sx1nm)
 
-## 🔨 Мой актуальный стек
+## 🔨 Актуальный стек
 
 ### General
 <!-- https://badges.pages.dev/ -->
