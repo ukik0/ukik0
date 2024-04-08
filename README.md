@@ -12,7 +12,6 @@
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Redux-Toolkit](https://img.shields.io/badge/-Redux_Toolkit-fff?style=for-the-badge&logo=redux&logoColor=5A009D)
 ![Effector](https://img.shields.io/badge/-Effector-fff?style=for-the-badge&logoColor=5A009D)
-![Zustand](https://img.shields.io/badge/-Zustand-yellow?style=for-the-badge&logo=zustand)
 
 ### Testing
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
